@@ -15,7 +15,7 @@ CLASS zcbdd_cl_test IMPLEMENTATION.
   METHOD run.
 "Test2
 "Test 4
-"Test 6
+"Test 7
   ENDMETHOD.
 
 ENDCLASS.
